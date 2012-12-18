@@ -1,0 +1,5 @@
+Circles
+
+This is a small program that plots a circle and displays its equation. I used it to teach a lesson in a high school geometry class for an internship.
+
+Technical details: I wrote this in Python using the wxPython and matplotlib libraries.
